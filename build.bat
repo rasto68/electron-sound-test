@@ -1,0 +1,1 @@
+beebasm -i .\soundtest.6502 -do soundtest.ssd
