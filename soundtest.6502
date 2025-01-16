@@ -1,1 +1,2 @@
 PUTBASIC "soundtest.bas", "sounds"
+PUTBASIC "music.bas", "music"
